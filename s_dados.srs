@@ -1,0 +1,8 @@
+HA$PBExportHeader$s_dados.srs
+global type s_dados from structure
+	decimal		preco
+	decimal		taxa
+	decimal		desconto
+	integer		quantidade
+end type
+
