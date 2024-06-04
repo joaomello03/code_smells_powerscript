@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "metodo_longo.pbl" "";
+@end;
+@begin Objects
+ "n_processar_pedido.sru" "metodo_longo.pbl";
+ "n_processar_pedido_refatorado.sru" "metodo_longo.pbl";
+@end;
