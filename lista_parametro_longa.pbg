@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "lista_parametro_longa.pbl" "";
+@end;
+@begin Objects
+ "s_dados.srs" "lista_parametro_longa.pbl";
+ "n_calcular_valor.sru" "lista_parametro_longa.pbl";
+ "n_calcular_valor_refatorado.sru" "lista_parametro_longa.pbl";
+@end;
